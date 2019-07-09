@@ -71,7 +71,7 @@ export default {
 </script>
 ```
 
-Now is a good time to add some styling. Choose a highlight theme by playing around on the pygments website with the "Use this style" dropdown: [pygments.org/demo/6850635/](http://pygments.org/demo/6850635/).
+Now is a good time to add some styling. Choose a highlight theme by playing around on the pygments website with the "Use this style" dropdown: [pygments.org/demo/6850635/](http://pygments.org/demo/6850635/). I recommend using a dark-text, light-background style, even if that's not what you usually code on. Projectors don't show dark backgrounds very well.
 
 Once you've picked out a style, export it to a css file by running
 
