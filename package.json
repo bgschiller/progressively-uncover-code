@@ -5,7 +5,7 @@
   "main": "empty_promise.js",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html && cp -r dist docs"
+    "build": "parcel build src/index.html && rm -rf docs/ && cp -r dist docs"
   },
   "author": "Brian Schiller",
   "license": "MIT",

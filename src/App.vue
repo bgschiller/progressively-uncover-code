@@ -4,6 +4,9 @@
     <p>
       Use left and right arrow keys to step through the stages
     </p>
+    <p>
+      More info at <a href="https://github.com/bgschiller/progressively-uncover-code">github.com/bgschiller/progressively-uncover-code</a>
+    </p>
     <EmptyPromiseSource :step="step" />
 
   </div>
