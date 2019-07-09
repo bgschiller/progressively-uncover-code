@@ -96,4 +96,4 @@ We're going to give the component a prop `step` that will determine which portio
 
 And that's it!
 
-<video src="./assets/empty-promise-uncover.mp4"></video>
+![](./assets/empty-promise-uncover.gif)
