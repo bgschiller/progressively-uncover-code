@@ -97,3 +97,5 @@ We're going to give the component a prop `step` that will determine which portio
 And that's it!
 
 ![](./assets/empty-promise-uncover.gif)
+
+You can play with the live version at [https://brianschiller.com/progressively-uncover-code/](brianschiller.com/progressively-uncover-code/)
