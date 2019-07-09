@@ -98,4 +98,4 @@ And that's it!
 
 ![](./assets/empty-promise-uncover.gif)
 
-You can play with the live version at [https://brianschiller.com/progressively-uncover-code/](brianschiller.com/progressively-uncover-code/)
+You can play with the live version at [brianschiller.com/progressively-uncover-code/](https://brianschiller.com/progressively-uncover-code/)
