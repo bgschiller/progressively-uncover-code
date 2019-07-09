@@ -1,0 +1,22 @@
+{
+  "name": "progressively-uncover-code",
+  "version": "1.0.0",
+  "description": "Progressively Uncover Code ==========================",
+  "main": "empty_promise.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Brian Schiller",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3",
+    "vue-visible": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "parcel": "^1.12.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
